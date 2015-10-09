@@ -9,17 +9,12 @@
 
   * [[xmf:obs|Open Bible Stories (xmf)]]
 
-
 **Downloads**
 
 All content for this namespace is available in the [[https://github.com/Door43/d43-xmf|d43-xmf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xmf/archive/master.zip|d43-xmf.zip]]
 
 **Recent Changes**
 {{changes>ns = xmf}}
-
-**Latest Status**
-{{page>en:uwadmin:xmf:obs:status}}
-
 
 **Language Information**
 
