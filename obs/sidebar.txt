@@ -5,7 +5,3 @@
 
 {{page>xmf:obs:stories}}
 
-
-**Latest Status**
-{{page>en:uwadmin:xmf:obs:status}}
-
